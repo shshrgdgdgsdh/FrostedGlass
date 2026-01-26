@@ -129,3 +129,8 @@
 		}
 	}
 }
+
+// Remove discord app default background color (potentially if user want to use --background-image: transparent;)
+.app__160d8, .appMount__51fd7, body {
+    background: transparent;
+}
