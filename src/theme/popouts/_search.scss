@@ -1,23 +1,23 @@
 #app-mount {
-	._55c999adcf6db265-container {
+	.container__55c99 {
 		background: transparent;
 		box-shadow: none;
-		._56fec8e8b8048fe0-displayedNick {
+		.displayedNick__56fec {
 			color: var(--text-normal);
 		}
-		._56fec8e8b8048fe0-displayUsername {
+		.displayUsername__56fec {
 			color: var(--text-muted);
 		}
-		._56fec8e8b8048fe0-option {
-			._56fec8e8b8048fe0-content {
+		.option__56fec {
+			.content__56fec {
 				--webkit-mask-image: linear-gradient(90deg, white, white 95%, transparent);
 				mask-image: linear-gradient(90deg, white, white 95%, transparent);
 			}
-			._56fec8e8b8048fe0-plusIcon {
+			.plusIcon__56fec {
 				color: var(--text-normal);
 			}
 			&:hover {
-				._56fec8e8b8048fe0-content {
+				.content__56fec {
 					--webkit-mask-image: linear-gradient(90deg, white, white 87%, transparent 92%, transparent);
 					mask-image: linear-gradient(90deg, white, white 87%, transparent 92%, transparent);
 				}
@@ -52,11 +52,11 @@
 			background: transparent;
 		}
 	}
-	.bd818628221af7aa-searchAnswer {
+	.searchAnswer_bd8186 {
 		background: var(--foreground);
 		margin-left: 0;
 	}
-	.bd818628221af7aa-searchFilter {
+	.searchFilter_bd8186 {
 		background: var(--foreground);
 	}
 }

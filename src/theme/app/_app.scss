@@ -12,7 +12,7 @@
 	}
 
 	// Container shadow
-	.f75fb00fb7356cbe-subtitleContainer::before {
+	.subtitleContainer_f75fb0::before {
 		content: '';
 		position: absolute;
 		height: 5px;
@@ -25,22 +25,22 @@
 		border: none;
 	}
 
-	._9293f6b2fc12398a-container,
-	._133bf5eea8e33a34-container {
+	.container__9293f,
+	.container__133bf {
 		border: none;
 	}
 
 	// Bot tags
-	._82f0793afa59e5dc-botTagRegular {
+	.botTagRegular__82f07 {
 		background: var(--gradient);
 		color: var(--text-normal);
 	}
-	._82f0793afa59e5dc-botText {
+	.botText__82f07 {
 		font-weight: 600;
 	}
 	.botTagInvert-18-95s {
 		color: rgb(var(--gradient-primary));
-		._82f0793afa59e5dc-botText {
+		.botText__82f07 {
 			font-weight: bold;
 		}
 	}
@@ -48,7 +48,7 @@
 
 //Globally fix scrollerbase getting its overflow set to hidden from the backgrounds
 //we need a really powerful selector for this
-html body #app-mount .d125d22cdfd32cfe-scrollerBase {
+html body #app-mount .scrollerBase_d125d2 {
 	overflow-y: scroll !important;
 }
 

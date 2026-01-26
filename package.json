@@ -9,10 +9,10 @@
 		"reroll": "bd-scss reroll"
 	},
 	"dependencies": {
-		"@discordstyles/classes": "^1.0.5",
-		"bd-scss": "^3.0.7"
+		"@discordstyles/classes": "^1.0.6",
+		"bd-scss": "^3.0.8"
 	},
 	"devDependencies": {
-		"prettier": "^3.7.4"
+		"prettier": "^3.8.1"
 	}
 }

@@ -1,34 +1,34 @@
 #app-mount {
-	.c19a557985eb7793-cozy .header-23xsNx {
+	.cozy_c19a55 .header-23xsNx {
 		margin-left: 0;
 		padding-left: 0;
 	}
-	.fd14e024a43b9049-message {
+	.message_fd14e0 {
 		background: transparent;
 		box-shadow: none;
 	}
 	// Attachments,pings,codeblocks ect...
-	._5126c0cd07f243a0-message {
+	.message__5126c {
 		background: transparent !important;
-		._23977d5b7cef7361-reaction {
+		.reaction__23977 {
 			background: var(--foreground);
-			&._23977d5b7cef7361-reactionMe {
+			&.reactionMe__23977 {
 				background: var(--gradient);
-				._23977d5b7cef7361-reactionCount {
+				.reactionCount__23977 {
 					color: var(--text-normal);
 				}
 			}
 		}
-		.f7ecaca5c80dbf3a-wrapper {
+		.wrapper_f7ecac {
 			background: var(--background-secondary);
 		}
-		._0ccaee68b77c7469-file,
-		.cf09d85aafe7e124-wrapperAudio,
+		.file__0ccae,
+		.wrapperAudio_cf09d8,
 		code {
 			background-color: var(--chat-embed);
 			border: none;
 		}
-		._623de82e76ad7f82-embedFull {
+		.embedFull__623de {
 			background-color: var(--chat-embed);
 		}
 	}
@@ -36,7 +36,7 @@
 		color: var(--text-default);
 	}
 	// Mentions
-	._5126c0cd07f243a0-mentioned {
+	.mentioned__5126c {
 		background: var(--gradient-20) !important;
 		&::before {
 			background: var(--gradient);
@@ -44,7 +44,7 @@
 	}
 
 	//Username or channel mention
-	._4106ae7c1472c1de-wrapper {
+	.wrapper__4106a {
 		background: var(--gradient);
 		color: var(--text-normal);
 	}

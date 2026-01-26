@@ -1,14 +1,14 @@
 #app-mount {
-    ._0f481cbbd7530492-topicsPillContainer {
+    .topicsPillContainer__0f481 {
         //This should never be highly transparent and no color really matches so we will use a custom one
         background: rgb(0, 0, 0, 0.8);
     }
 
-    ._0f481cbbd7530492-topicsDropdownBase {
+    .topicsDropdownBase__0f481 {
         border: none;
     }
 
-    ._0f481cbbd7530492-topicsPillCaret {
+    .topicsPillCaret__0f481 {
         background: var(--foreground-double);
     }
 }

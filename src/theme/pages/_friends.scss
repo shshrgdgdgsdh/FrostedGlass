@@ -1,26 +1,26 @@
-#app-mount ._133bf5eea8e33a34-container {
+#app-mount .container__133bf {
 	background: rgb(0, 0, 0, var(--middle-brightness));
 
-	._133bf5eea8e33a34-tabBody {
+	.tabBody__133bf {
 		background: transparent;
 	}
 
-	._9293f6b2fc12398a-container {
+	.container__9293f {
 		background: transparent;
 	}
 
-	._7e549558f336cddb-itemCard, .eafb9cc569d6dcbd-card, ._6811a89c5c687a9a-blockedIgnoredSettingsNotice {
+	.itemCard__7e549, .card_eafb9c, .blockedIgnoredSettingsNotice__6811a {
 		border: none;
 		background: var(--foreground-half)
 	}
 
-	._7e549558f336cddb-itemCard:hover {
+	.itemCard__7e549:hover {
 		background: var(--foreground);
 	}
-	._133bf5eea8e33a34-nowPlayingColumn, ._7d20cf18f8a2784c-container {
+	.nowPlayingColumn__133bf, .container__7d20c {
 		background: rgb(0, 0, 0, var(--right-brightness));
 	}
-	._7d20cf18f8a2784c-scroller {
+	.scroller__7d20c {
 		border: none;
 	}
 }

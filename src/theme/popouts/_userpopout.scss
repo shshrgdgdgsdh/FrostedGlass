@@ -78,11 +78,11 @@
 		border-radius: 3px;
 	}
 
-	._2ef4989efde1f4e4-activityName,
+	.activityName__2ef49,
 	.headerTag-2pZJzA,
 	.nameNormal-2lqVQK,
 	.nameWrap-3Z4G_9,
-	._2ef4989efde1f4e4-textRow {
+	.textRow__2ef49 {
 		color: var(--text-normal);
 	}
 
@@ -94,16 +94,16 @@
 		gap: 4px;
 	}
 
-	.dfa8b6b94cddb191-roleRemoveButton {
+	.roleRemoveButton_dfa8b6 {
 		position: unset;
 
-		& + ._48c1c0768f2a2421-roleName {
+		& + .roleName__48c1c {
 			position: relative;
 			z-index: 1;
 		}
 	}
 
-	.dfa8b6b94cddb191-role {
+	.role_dfa8b6 {
 		margin: 0;
 		position: relative;
 		border-radius: 10px;
@@ -113,7 +113,7 @@
 		border: none;
 	}
 
-	._4f569b8941af22d1-roleCircle {
+	.roleCircle__4f569 {
 		position: unset;
 		overflow: visible;
 		filter: none;
@@ -130,11 +130,11 @@
 		}
 	}
 
-	._48c1c0768f2a2421-roleRemoveIcon {
+	.roleRemoveIcon__48c1c {
 		left: 12px;
 	}
 
-	._48c1c0768f2a2421-roleName {
+	.roleName__48c1c {
 		margin: 0;
 		color: var(--text-focus);
 	}
