@@ -1,7 +1,6 @@
 
 
 :root {
-    --background-image: url('https://i.ibb.co/kgMxBzdq/wp12410284-anko-uguisu-wallpapers.jpg');
   --version: "Frosted Glass 2.0.21";
   --TB-top: calc(var(--server-container) + var(--window-padding));
   --TB-tr-roundness: var(--window-roundness);
@@ -228,6 +227,7 @@ textarea {
   right: 0;
   bottom: 0;
   left: 0;
+    --background-image: url('https://i.ibb.co/kgMxBzdq/wp12410284-anko-uguisu-wallpapers.jpg');
   background: var(--background-image);
   background-position: var(--background-image-position, center);
   background-size: var(--background-image-size, cover);
