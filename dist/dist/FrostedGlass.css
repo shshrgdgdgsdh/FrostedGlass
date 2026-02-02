@@ -1,2 +1,9 @@
 /* This is for backwards compatibility since so many people are having issues */
 @import url("https://discordstyles.github.io/FrostedGlass/FrostedGlass.css");
+
+:root {
+    --background-image: url('https://i.imgur.com/uzJYJNj.png');
+    --background-image-blur: 5px;
+    --background-image-size: cover;
+    --background-image-position: center;
+}
