@@ -2,9 +2,4 @@
 
 :root {
     --background-image: url('https://i.ibb.co/kgMxBzdq/wp12410284-anko-uguisu-wallpapers.jpg');
-    --background-image-blur: 5px;
-    --background-image-size: cover;
-    --background-image-position: center;
-    --tint-colour: 0, 0, 0;
-    --tint-brightness: 0.3;
 }
